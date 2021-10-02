@@ -1,12 +1,12 @@
 var btns = document.querySelectorAll(".drum");
 
 const sounds = {
-    "w": "crash",
+    "w": "tom-3",
     "a": "kick-bass",
     "s": "snare",
     "d": "tom-1",
     "j": "tom-2",
-    "k": "tom-3",
+    "k": "crash",
     "l": "tom-4"
 };
 
